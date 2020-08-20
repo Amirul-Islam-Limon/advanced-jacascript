@@ -1,0 +1,17 @@
+//=== 23 ADVANCED JAVASCRIPT, JAVASCRIPT INTERVIEW QUESTIONS ===//
+
+* truthy vs falsy(when a is truthy and when falshy);
+
+* null vs undefined(when show null and when show undefined)'
+
+* double equal(==) and triple equal (===) 
+
+* map, filter, find(what is that and how to use it){***}
+
+* how you can access property from an array using map, filer and find
+
+* scope (var- hoistion, let , const){***}
+
+* closer(){***}
+
+* array(slice, splice and join) 
